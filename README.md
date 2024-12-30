@@ -1,48 +1,35 @@
-# Astro Starter Kit: Basics
+# ZENT
 
-```sh
-npm create astro@latest -- --template basics
-```
+Bienvenido a ZENT, su destino único para las últimas tendencias y estilos de moda. Estamos encantados de asociarnos con Astro para brindarle una experiencia de compra en línea incomparable.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Acerca de nosotros
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+ZENT se dedica a proporcionar ropa elegante y de alta calidad para todas las ocasiones. Nuestra misión es hacer que la moda sea accesible y agradable para todos. Con una amplia gama de productos, desde ropa informal hasta atuendos formales, tenemos algo para todos los gustos y preferencias.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## Nuestra asociación con Astro
 
-## 🚀 Project Structure
+Al colaborar con Astro, aprovechamos la tecnología de vanguardia para mejorar su experiencia de compra. Las soluciones innovadoras de Astro nos ayudan a optimizar nuestras operaciones, lo que garantiza que reciba sus pedidos de manera rápida y eficiente.
 
-Inside of your Astro project, you'll see the following folders and files:
+## Lo que ofrecemos
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+- **Ropa para hombres**: desde camisetas informales hasta trajes formales, tenemos una colección diversa para cada ocasión.
+- **Ropa para mujeres**: explore nuestra gama de vestidos, blusas, faldas y más para encontrar el atuendo perfecto.
+- **Accesorios**: Completa tu look con nuestra selección de accesorios, que incluyen bolsos, sombreros y joyas.
+- **Colecciones de temporada**: Mantente al día con las últimas tendencias explorando nuestras colecciones de temporada.
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## ¿Por qué comprar con nosotros?
 
-## 🧞 Commands
+- **Productos de calidad**: Obtenemos nuestra ropa de fabricantes de renombre para garantizar la más alta calidad.
+- **Precios asequibles**: Disfruta de precios competitivos sin comprometer el estilo ni la calidad.
+- **Envío rápido**: Gracias a nuestra asociación con Astro, ofrecemos envíos rápidos y confiables.
+- **Atención al cliente**: Nuestro dedicado equipo de atención al cliente está aquí para ayudarte con cualquier pregunta o inquietud.
 
-All commands are run from the root of the project, from a terminal:
+## Ponte en contacto con nosotros
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+¡Nos encanta saber de nuestros clientes! Si tienes alguna pregunta, comentario o simplemente quieres saludarnos, no dudes en comunicarte con nosotros.
 
-## 👀 Want to learn more?
+- **Correo electrónico**: support@zent.com
+- **Teléfono**: (123) 456-7890
+- **Redes sociales**: Síganos en [Facebook](https://facebook.com/zent), [Instagram](https://instagram.com/zent) y [Twitter](https://twitter.com/zent).
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Gracias por elegir ZENT. ¡Felices compras!
