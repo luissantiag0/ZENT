@@ -1,8 +1,12 @@
 ---
-import Welcome from '@components/Welcome.astro';
 import Layout from '@layouts/Layout.astro';
+import CallToAction from '@components/CallToAction.astro';
 ---
-
 <Layout>
-	<Welcome />
+  <main class="pt-6">
+    <CallToAction />
+    <section class="banner-container mx-auto w-full p-0 m-0">
+      <img src="/images/main.webp" alt="Banner ZENT" class="w-full h-auto" />
+    </section>
+  </main>
 </Layout>

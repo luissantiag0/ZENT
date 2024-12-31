@@ -5,11 +5,15 @@ export default {
 		extend: {
 			fontFamily: {
 				montserrat: ['Montserrat', 'sans-serif'],
+				raleway: ['Raleway', 'sans-serif'],
+			
 			},
 
 			colors: {
-				customDark: 'rgb(15 23 42 / var(--tw-bg-opacity, 1))',
-				customLine: 'rgb(79, 70, 229)',
+				customBackground: 'rgb(15 23 42 / var(--tw-bg-opacity, 1))',
+				customLine: 'rgb(79 70 229)',
+				backgroundAccent: 'rgb(30 38 70 / var(--tw-bg-opacity, 1))',
+
 
 			},
 		},

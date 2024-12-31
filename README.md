@@ -1,6 +1,6 @@
 # ZENT
 
-Bienvenido a ZENT, su destino único para las últimas tendencias y estilos de moda. Estamos encantados de asociarnos con Astro para brindarle una experiencia de compra en línea incomparable.
+Bienvenido a la tienda online de ropa ficticia ZENT, su destino único para las últimas tendencias y estilos de moda. Estamos encantados de asociarnos con Astro para brindarle una experiencia de compra en línea incomparable.
 
 ## Acerca de nosotros
 

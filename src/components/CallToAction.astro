@@ -1,0 +1,24 @@
+---
+const options = [
+  { text: 'Comprar novedades', button: 'Comprar' },
+  { text: 'Devoluciones fáciles', button: 'Devolver' },
+  { text: 'Ver las últimas colecciones', button: 'Explorar' },
+  { text: 'Ofertas exclusivas', button: 'Descubrir' },
+  { text: 'Nuevos estilos para ti', button: 'Ver estilos' }
+];
+
+function getRandomOption() {
+  return options[Math.floor(Math.random() * options.length)];
+}
+
+let randomOption = getRandomOption();
+---
+
+<div class="text-center space-y-4">
+  <span id="miSpan" class="flex flex-col text-lg font-raleway bg-backgroundAccent px-4 py-2 rounded-md">
+    {randomOption.text}
+    <button id="miBoton" class="justify-center underline font-raleway">
+      {randomOption.button}
+    </button>
+  </span>
+</div>

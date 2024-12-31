@@ -3,17 +3,20 @@ import Header from '@components/Header.astro';
 ---
 <html lang="es">
   <head>
-    <style>
 
+    <style>
     @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
     </style>
+
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ZENT - Moda Juvenil</title>
   </head>
-  <body class="bg-customDark text-white">
+  <body class="bg-customBackground text-white">
     <Header />
-      <slot /> <!-- Aquí se renderiza el contenido hijo -->
+      <slot />
   </body>
 </html>
